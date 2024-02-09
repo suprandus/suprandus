@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I think I am a problem-solver**
 
 ## Examples of work
-<img src="https://raw.githubusercontent.com/suprandus/suprandus/main/bottle_points.gif" width="240"/> 
+<img src="https://github.com/suprandus/suprandus/blob/main/bottle_points.gif" width="240"/> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
