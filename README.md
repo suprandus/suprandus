@@ -10,12 +10,13 @@
 - ⚡ Fun fact **I think I am a problem-solver**
 
 ## Examples of work
-<img src="https://github.com/suprandus/suprandus/blob/main/bottle_points.gif" width="240"/> 
+
+<img src="https://github.com/suprandus/suprandus/blob/main/bottle_points.gif" width="240"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discordapp.com/users/998561682957799504" target="blank"><img align="center" src="https://raw.githubusercontent.com/suprandus/suprandus/main/icons/discord.png" alt="suprandus" height="30" width="40" /></a>
-<a href="https://twitter.com/suprandus" target="blank"><img align="center" src="https://github.com/suprandus/suprandus/blob/7289374c012b507b7afd736f78b670e1a8a295b2/icons/twitter.png" alt="suprandus" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/998561682957799504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="suprandus" height="30" width="40" /></a>
+<a href="https://twitter.com/suprandus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suprandus" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suprandus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suprandus" height="30" width="40" /></a> 
 </p>
 
