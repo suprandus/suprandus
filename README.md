@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web3**
 
-- ⚡ Fun fact **I think I am a problem-solver**
+- ⚡ Fun fact **I am a problem-solver**
 
 ## Examples of work
 
