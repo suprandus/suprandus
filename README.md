@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suprandus&label=Profile%20views&color=0e75b6&style=flat" alt="suprandus" /> </p>
 
-- 🌱 I’m currently learning **Node.js, Python, and Web3 projects**
+- 🌱 I’m currently learning **Laravel, Node.js, and Web3 projects**
 
 - 💬 Ask me about **Web3**
 
